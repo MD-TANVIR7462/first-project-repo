@@ -1,0 +1,130 @@
+* {
+   margin: 0px;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.head-section {
+   background-image: url(./images/banner/banner2.png);
+   background-size: cover;
+}
+
+.head-div {
+   text-align: right;
+   border: 1px solid black;
+   padding-top: 300px;
+   padding-right: 170px;
+   padding-bottom: 300px;
+}
+
+.head-title {
+   font-size: 44px;
+   padding-left: 550px;
+
+}
+
+.head-dis {
+   font-size: 17px;
+   color: #444343;
+   padding-left: 600px;
+   margin-top: 15px;
+}
+
+.head-btn {
+   margin-top: 12px;
+   background-color: rgb(238, 114, 42);
+   color: #FFFFFF;
+   padding: 10px 13px;
+   font-size: 17px;
+   border: none;
+   border-radius: 5px;
+}
+
+/* part--my failures of previus */
+.section-main {
+   background: #FAFAFA;
+   border-radius: 10px;
+   display: flex;
+   align-items: center;
+   margin: 100px 120px 120px 100px;
+}
+
+.main-letter-div {
+   margin-left: 70px;
+   margin-top: 90px;
+}
+
+.main-section-heading {
+   font-size: 30px;
+   padding-right: 150px;
+}
+
+.main-section-pera {
+   margin: 20px 0px;
+   font-size: 18px;
+   color: #444343;
+}
+
+.main-sec-icon-div {
+   color: #444343;
+}
+
+/* part-my plans */
+.sub-heading {
+   text-align: center;
+   font-size: 35px;
+}
+
+.sub-container {
+   display: flex;
+   justify-content: center;
+}
+
+.sub-primary-con {
+   text-align: center;
+   margin: 60px 60px;
+}
+
+.sub-pera {
+   color: #444343;
+   font-weight: 700;
+   font-size: 15px;
+}
+
+/* part-call now section */
+.section-3 {
+   background: url(./images/gradient2.png), url(./images/watch.png);
+   max-width: 1140px;
+   margin: 50px 150px; border-radius: 5px;
+}
+.sec-3-div{
+  padding-top:  80px; padding-bottom: 50px; padding-left: 60px; color: #FAFAFA; font-size: 35px; 
+}
+.sec3-heading{
+   padding-right: 200px;
+}
+.btn-2{ background-color:#FFFFFF rgb(255, 106, 19);
+   color: rgb(236, 103, 25);
+   padding: 10px 20px;
+   font-size: 17px;
+   border: none;
+   border-radius:5px; font-weight: 700; margin-top: 10px;
+}
+/* footer part */
+.ending{
+   background: rgba(0, 0, 0, 0.87); color: #FAFAFA;
+}
+.footer-div{
+   display: flex; justify-content: center;
+}
+.f-div{
+   margin: 70px 120px;
+}
+.f-pera-1{
+   margin-bottom: 10px; font-size: 15px; font-weight: 400;
+}
+.f-hedinf{
+   margin-bottom: 10px;
+}
+.form{ background: none; border: 1px solid #FFFFFF; padding-left: 12px; padding-top: 12px; padding-bottom: 12px; padding-right: 70px; border-radius: 5px; margin-top: 10px;
+} 
+
